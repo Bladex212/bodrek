@@ -1,1 +1,1 @@
-Format Nomor : 081234567890 atau 62
+Format Nomor : 081234567890 
